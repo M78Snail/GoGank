@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    
+    <style name="GoGank.Card" parent="CardView">
+        <item name="contentPadding">0dp</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardPreventCornerOverlap">false</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+    </style>
+
+    <style name="GoGank.About.Card" parent="GoGank.Card">
+        <item name="contentPadding">0dp</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="AppWindowTranslucentBackgroundTheme" parent="AppTheme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+</resources>

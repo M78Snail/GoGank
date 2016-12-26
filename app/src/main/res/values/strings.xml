@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+  {EasyGank}  Copyright (C) {2015}  {CaMnter}
+
+  This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+  This is free software, and you are welcome to redistribute it
+  under certain conditions; type `show c' for details.
+
+  The hypothetical commands `show w' and `show c' should show the appropriate
+  parts of the General Public License.  Of course, your program's commands
+  might be different; for a GUI interface, you would use an "about box".
+
+  You should also get your employer (if you work as a programmer) or school,
+  if any, to sign a "copyright disclaimer" for the program, if necessary.
+  For more information on this, and how to apply and follow the GNU GPL, see
+  <http://www.gnu.org/licenses/>.
+
+  The GNU General Public License does not permit incorporating your program
+  into proprietary programs.  If your program is a subroutine library, you
+  may consider it more useful to permit linking proprietary applications with
+  the library.  If this is what you want to do, use the GNU Lesser General
+  Public License instead of this License.  But first, please read
+  <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+-->
+<resources>
+    <string name="app_name">干货集中营</string>
+    <string name="app_menu">GoGank Menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_empty_data">感谢你热爱学习，更重要的是妹纸，可惜没干货了T~T</string>
+    <string name="main_load_error">加载失败，再试试T~T</string>
+
+
+    <string name="daily_android_tag_tv">Android</string>
+    <string name="daily_ios_tag_tv">iOS</string>
+    <string name="daily_js_tag_tv">前端</string>
+    <string name="navigation_title">干货在手，万事精彩。</string>
+
+    <string name="common_navigation_daily">每日精彩</string>
+    <string name="common_welfare">福利</string>
+    <string name="common_android">Android</string>
+    <string name="common_ios">iOS</string>
+    <string name="common_js">前端</string>
+    <string name="common_video">休息视频</string>
+    <string name="common_resources">拓展资源</string>
+    <string name="common_app">App</string>
+    <string name="common_via">via. %s</string>
+    <string name="common_via_key">via. </string>
+    <string name="common_go_back_tip">再按一次退出</string>
+    <string name="common_copy_success">复制成功</string>
+    <string name="common_network_error">网络错误</string>
+
+    <string name="technology_github_tag_tv">github</string>
+    <string name="technology_blog_tag_tv">文章</string>
+
+    <string name="menu_web_refresh">重新加载</string>
+    <string name="menu_web_copy">复制链接</string>
+    <string name="menu_web_share">分享链接</string>
+    <string name="menu_web_horizontal">横屏显示</string>
+    <string name="menu_web_vertical">竖屏显示</string>
+
+
+    <string name="menu_picture_download">下载图片</string>
+    <string name="menu_picture_copy">复制链接</string>
+    <string name="menu_picture_share">分享出去</string>
+
+    <string name="picture_loading">图片还在加载中，请稍等...</string>
+    <string name="picture_download">下载高清原图到手机?</string>
+
+    <string name="menu_main_about">关于EasyGank妹纸</string>
+    <string name="menu_main_blog">前往 作者的博客</string>
+    <string name="menu_main_home_page">前往 gank.io 主页</string>
+
+
+    <string name="about_title">关于作者</string>
+    <string name="about_nickname">M78Snail</string>
+    <string name="about_sign">当风吹干流过的泪和汗，总有一天我有属于我的天。</string>
+    <string name="about_blog">http://m78snail.com</string>
+    <string name="about_project_introduce">项目介绍</string>
+    <string name="about_project_introduce_content">GoGank项目是对Rx框架的一次集中实践 ( Square + ReactiveX ) :\n\n\tRxJava\n\tRxAndroid\n\tOkhttp\n\tRetrofit\n\tButterknife\n\tGlide\n\tReservoir\n\n 为 gank.io（干货集中营）网站开发的一款App,算是对于Rx框架的一个实践总结。\n\n Api接口提供：http://gank.io/api</string>
+
+</resources>

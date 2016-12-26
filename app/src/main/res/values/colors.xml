@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+  {EasyGank}  Copyright (C) {2015}  {CaMnter}
+
+  This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+  This is free software, and you are welcome to redistribute it
+  under certain conditions; type `show c' for details.
+
+  The hypothetical commands `show w' and `show c' should show the appropriate
+  parts of the General Public License.  Of course, your program's commands
+  might be different; for a GUI interface, you would use an "about box".
+
+  You should also get your employer (if you work as a programmer) or school,
+  if any, to sign a "copyright disclaimer" for the program, if necessary.
+  For more information on this, and how to apply and follow the GNU GPL, see
+  <http://www.gnu.org/licenses/>.
+
+  The GNU General Public License does not permit incorporating your program
+  into proprietary programs.  If your program is a subroutine library, you
+  may consider it more useful to permit linking proprietary applications with
+  the library.  If this is what you want to do, use the GNU Lesser General
+  Public License instead of this License.  But first, please read
+  <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+-->
+<resources>
+    <color name="appBackground">#ffF6F6EF</color>
+    <color name="colorPrimary">#ff2C1883</color>
+    <color name="colorPrimaryDark">#ff301B91</color>
+    <color name="colorAccent">#ff388E3C</color>
+
+    <color name="common_android_tag_bg">#ff388E3C</color>
+    <color name="common_ios_tag_bg">#ff0377BC</color>
+    <color name="common_js_tag_bg">#ffEF6C02</color>
+    <color name="common_github_tag_bg">#ff000000</color>
+    <color name="common_title_tv">#ff000000</color>
+    <color name="common_item_via">#ffA8A8A8</color>
+
+    <color name="item_card_background">#ffF6F6EF</color>
+    <color name="item_selectable_pressed">#ff9475CD</color>
+
+    <!-- Picture Activity -->
+    <color name="picture_background">#ff000000</color>
+
+    <!-- item -->
+    <color name="item_date">#ffA8A8A8</color>
+    <color name="item_title_tv">#ff000000</color>
+    <color name="item_tag_tv">#ffFFFFFF</color>
+
+
+    <!-- item technology -->
+    <color name="daily_technology_tv">#ff000000</color>
+
+    <!-- item video -->
+    <color name="video_cover_color">#4d000000</color>
+
+    <!-- About -->
+    <color name="about_title">#ff000000</color>
+    <color name="about_sign">#ff666666</color>
+    <color name="about_content">#ff414141</color>
+
+</resources>
